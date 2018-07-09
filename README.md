@@ -78,4 +78,17 @@ Sanjeeb Das Gupta,
 Julia Computing, Inc. 
 http://www.juliacomputing.com/
  
- 
+# Dear Felix,
+Thank you for attending the course on "Machine Learning and Artificial Intelligence". Please find below the links to-
+1.	Course recording - Day 1 & Day 2 
+2.	Training material & Solutions 
+3.	Presentation used by Prof. Alan Edelman 
+4.	Play Ground 
+5.	Discourse forum 
+6.	Slack channel 
+Please let me know if you need any other details or information, I would be glad to help you with it.
+---
+Sanjeeb Das Gupta,
+Julia Computing, Inc.
+http://www.juliacomputing.com/
+
