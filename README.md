@@ -80,12 +80,19 @@ http://www.juliacomputing.com/
  
 # Dear Felix,
 Thank you for attending the course on "Machine Learning and Artificial Intelligence". Please find below the links to-
-1.	Course recording - Day 1 & Day 2 
+1.	Course recording - Day 1 & Day 2
+   - https://urldefense.proofpoint.com/v2/url?u=https-3A__newsletter.juliacomputing.com_sendy_l_esgO5xA892wEdLreChf763wz3g_W9Dew5uccOOP8fFgu763VtCQ_PPbp763SAhUknUSYbTVvQpRg&d=DwMBaQ&c=uc5ZRXl8dGLM1RMQwf7xTCjRqXF0jmCF6SP0bDlmMmY&r=5MrePHeoMVuXrDwVgSIY-L8vcr54mx6syskBbnM9JLw&m=b5jvW_qxO5xuFJ2IUR6DqK09T0iLuDX7Jtr2yqyTb80&s=1WQ3cUzva9Vpkj8MGBcIiPSl5fcf3zaE6kEwFCLh2hY&e=
+   - https://urldefense.proofpoint.com/v2/url?u=https-3A__newsletter.juliacomputing.com_sendy_l_esgO5xA892wEdLreChf763wz3g_gOKFgskdXQz3PkD8FrBNDA_PPbp763SAhUknUSYbTVvQpRg&d=DwMBaQ&c=uc5ZRXl8dGLM1RMQwf7xTCjRqXF0jmCF6SP0bDlmMmY&r=5MrePHeoMVuXrDwVgSIY-L8vcr54mx6syskBbnM9JLw&m=b5jvW_qxO5xuFJ2IUR6DqK09T0iLuDX7Jtr2yqyTb80&s=Uofh2GmGeQgbuDfbzTC9AvqY-7HSAm1PxvqGZLsqhvQ&e=
 2.	Training material & Solutions 
-3.	Presentation used by Prof. Alan Edelman 
+  - https://urldefense.proofpoint.com/v2/url?u=https-3A__newsletter.juliacomputing.com_sendy_l_esgO5xA892wEdLreChf763wz3g_57O4eWpSQFbgNIPfy6NZAg_PPbp763SAhUknUSYbTVvQpRg&d=DwMBaQ&c=uc5ZRXl8dGLM1RMQwf7xTCjRqXF0jmCF6SP0bDlmMmY&r=5MrePHeoMVuXrDwVgSIY-L8vcr54mx6syskBbnM9JLw&m=b5jvW_qxO5xuFJ2IUR6DqK09T0iLuDX7Jtr2yqyTb80&s=_Cvz3j1NkMksFcpmlcq7kNZtwGsEvpSM5m1Qql8UaG0&e=
+3.	Presentation used by Prof. Alan Edelman
+ - https://urldefense.proofpoint.com/v2/url?u=https-3A__newsletter.juliacomputing.com_sendy_l_esgO5xA892wEdLreChf763wz3g_Pyuv763FT9w69A1bMf4WHpPg_PPbp763SAhUknUSYbTVvQpRg&d=DwMBaQ&c=uc5ZRXl8dGLM1RMQwf7xTCjRqXF0jmCF6SP0bDlmMmY&r=5MrePHeoMVuXrDwVgSIY-L8vcr54mx6syskBbnM9JLw&m=b5jvW_qxO5xuFJ2IUR6DqK09T0iLuDX7Jtr2yqyTb80&s=R5tdeyJ70seQ9SnpQ0F-kaJmc3SUAPv7nvZzchHhTP4&e=
 4.	Play Ground 
+ - https://urldefense.proofpoint.com/v2/url?u=https-3A__newsletter.juliacomputing.com_sendy_l_esgO5xA892wEdLreChf763wz3g_Wc0gjE0R1kzLmKZOERdAEQ_PPbp763SAhUknUSYbTVvQpRg&d=DwMBaQ&c=uc5ZRXl8dGLM1RMQwf7xTCjRqXF0jmCF6SP0bDlmMmY&r=5MrePHeoMVuXrDwVgSIY-L8vcr54mx6syskBbnM9JLw&m=b5jvW_qxO5xuFJ2IUR6DqK09T0iLuDX7Jtr2yqyTb80&s=6bH6e9CMXISn25weMwd-fyNnapwY2NgQ7NiVfuQ3mDs&e=
 5.	Discourse forum 
+ - https://urldefense.proofpoint.com/v2/url?u=https-3A__newsletter.juliacomputing.com_sendy_l_esgO5xA892wEdLreChf763wz3g_fKiAP763KrqNbBEqVNtkGFtA_PPbp763SAhUknUSYbTVvQpRg&d=DwMBaQ&c=uc5ZRXl8dGLM1RMQwf7xTCjRqXF0jmCF6SP0bDlmMmY&r=5MrePHeoMVuXrDwVgSIY-L8vcr54mx6syskBbnM9JLw&m=b5jvW_qxO5xuFJ2IUR6DqK09T0iLuDX7Jtr2yqyTb80&s=yOlNY-9cOIduJaD-c9vahku1VzYKumjzQCaCVp1odWg&e=
 6.	Slack channel 
+ - https://urldefense.proofpoint.com/v2/url?u=https-3A__newsletter.juliacomputing.com_sendy_l_esgO5xA892wEdLreChf763wz3g_3EDX4L2TLn0S5B7iJLZl5A_PPbp763SAhUknUSYbTVvQpRg&d=DwMBaQ&c=uc5ZRXl8dGLM1RMQwf7xTCjRqXF0jmCF6SP0bDlmMmY&r=5MrePHeoMVuXrDwVgSIY-L8vcr54mx6syskBbnM9JLw&m=b5jvW_qxO5xuFJ2IUR6DqK09T0iLuDX7Jtr2yqyTb80&s=Yk89wwX0Kev0UKecyCpV7e_7MGIdaqjsVfgliLbHYDw&e=
 Please let me know if you need any other details or information, I would be glad to help you with it.
 ---
 Sanjeeb Das Gupta,
