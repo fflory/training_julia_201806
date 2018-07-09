@@ -93,6 +93,7 @@ Thank you for attending the course on "Machine Learning and Artificial Intellige
  - https://urldefense.proofpoint.com/v2/url?u=https-3A__newsletter.juliacomputing.com_sendy_l_esgO5xA892wEdLreChf763wz3g_fKiAP763KrqNbBEqVNtkGFtA_PPbp763SAhUknUSYbTVvQpRg&d=DwMBaQ&c=uc5ZRXl8dGLM1RMQwf7xTCjRqXF0jmCF6SP0bDlmMmY&r=5MrePHeoMVuXrDwVgSIY-L8vcr54mx6syskBbnM9JLw&m=b5jvW_qxO5xuFJ2IUR6DqK09T0iLuDX7Jtr2yqyTb80&s=yOlNY-9cOIduJaD-c9vahku1VzYKumjzQCaCVp1odWg&e=
 6.	Slack channel 
  - https://urldefense.proofpoint.com/v2/url?u=https-3A__newsletter.juliacomputing.com_sendy_l_esgO5xA892wEdLreChf763wz3g_3EDX4L2TLn0S5B7iJLZl5A_PPbp763SAhUknUSYbTVvQpRg&d=DwMBaQ&c=uc5ZRXl8dGLM1RMQwf7xTCjRqXF0jmCF6SP0bDlmMmY&r=5MrePHeoMVuXrDwVgSIY-L8vcr54mx6syskBbnM9JLw&m=b5jvW_qxO5xuFJ2IUR6DqK09T0iLuDX7Jtr2yqyTb80&s=Yk89wwX0Kev0UKecyCpV7e_7MGIdaqjsVfgliLbHYDw&e=
+
 Please let me know if you need any other details or information, I would be glad to help you with it.
 ---
 Sanjeeb Das Gupta,
